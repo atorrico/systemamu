@@ -1,0 +1,1 @@
+Esta carpeta simularia el repositorio de una empresa. Dentro de esta carpeta estarian los proyectos
